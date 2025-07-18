@@ -1,1 +1,8 @@
+title: "Daniel Wanjama"
+description: "Cybersecurity | Identity & Governance | Offensive Security"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+markdown: kramdown
 
